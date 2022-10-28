@@ -2,7 +2,7 @@
 Desafio de Código - Preenchimento de Vetor I - Bootcamp Québec Java Digital
 </h3>
 <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a>
-</strong> 🧡💛
+</strong> 🧡
 
 <br>
 
