@@ -22,6 +22,6 @@ A saída do desafio equivale aos números pares do Array, como mostra o exemplo 
 
 ![image](https://user-images.githubusercontent.com/103437425/198276609-cc3b08ab-fd75-4072-8176-4709e6a21446.png)
 
-------------
+-----------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
